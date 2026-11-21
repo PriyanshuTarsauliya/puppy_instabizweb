@@ -1,0 +1,20 @@
+{
+  "name": "teddypups-uae",
+  "version": "1.0.0",
+  "description": "TeddyPups U.A.E. — Premium teacup puppies in Dubai clone",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Static assets ready in public/'"
+  },
+  "keywords": [
+    "teddypups",
+    "dubai",
+    "puppies",
+    "clone",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC"
+}

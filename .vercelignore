@@ -1,0 +1,11 @@
+# Temporary files
+*.png
+*.py
+*.log
+tmp_*
+test_*
+inspect_*
+source.html
+d:\puppy_instabizweb\*.png
+node_modules
+.git

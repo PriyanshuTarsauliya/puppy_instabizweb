@@ -1,0 +1,9 @@
+# Media captures and temp files
+*.mp4
+*.png
+source.html
+node_modules/
+.vercel/
+
+0.26.0
+download_*.py
