@@ -5,8 +5,7 @@
   "private": true,
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js",
-    "build": "echo 'Static assets ready in public/'"
+    "dev": "node server.js"
   },
   "keywords": [
     "teddypups",
@@ -15,6 +14,5 @@
     "clone",
     "vercel"
   ],
-  "author": "",
   "license": "ISC"
 }

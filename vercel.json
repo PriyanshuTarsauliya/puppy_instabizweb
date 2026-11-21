@@ -2,6 +2,7 @@
   "version": 2,
   "cleanUrls": true,
   "outputDirectory": "public",
+  "buildCommand": null,
   "functions": {
     "api/image.js": {
       "includeFiles": "public/**"
